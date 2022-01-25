@@ -9,6 +9,7 @@
       "type": "30",
       "addressFa": "سعادت آباد - بلوار کوهستان - خیابان احسان",
       "addressEn": "Ehsan str. , Koohestan blv. , Sa'adatabad",
+      "image": "cities-1.jpg.webp",
       "options": {
         "Floor" : "5",
         "bathroom": "2",
@@ -26,6 +27,7 @@
       "type": "20",
       "addressFa": "دارآباد - خیابان ششم",
       "addressEn": "sixth str. , Darabad",
+      "image": "cities-1.jpg.webp",
       "options": {
         "Floor" : null,
         "bathroom": "5",
@@ -43,6 +45,7 @@
       "type": "20",
       "addressFa": "زعفرانیه - خیابان یکم",
       "addressEn": "first street , Zafaranie",
+      "image": "cities-1.jpg.webp",
       "options": {
         "Floor" : "3",
         "bathroom": "2",
@@ -60,6 +63,7 @@
       "type": "30",
       "addressFa": "شهرک غرب - بلوار ایران زمین - خیابان گلستان",
       "addressEn": "Golestan st.,Iranzamin blv.,Shahrak Gharb ",
+      "image": "cities-1.jpg.webp",
       "options": {
         "Floor" : "10",
         "bathroom": "1",
@@ -77,6 +81,7 @@
       "type": "20",
       "addressFa": "سعادت آباد - بلوار فرحزادی - خیابان نگین",
       "addressEn": "Negin str. , Farahzadi blv. , Sa'adatabad",
+      "image": "cities-1.jpg.webp",
       "options": {
         "Floor" : "1",
         "bathroom": "1",
@@ -94,6 +99,7 @@
       "type": "20",
       "addressFa": "یوسف آباد - خیابان چهل ستون - خیابان یکم",
       "addressEn": "first str, Chehel sotoon str, Yousefabad",
+      "image": "cities-1.jpg.webp",
       "options": {
         "Floor" : "3",
         "bathroom": "1",
@@ -111,6 +117,7 @@
       "type": "30",
       "addressFa": "دارآباد - خیابان دوم",
       "addressEn": "second srt. , darabad",
+      "image": "cities-1.jpg.webp",
       "options": {
         "Floor" : null,
         "bathroom": "5",
