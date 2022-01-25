@@ -1,6 +1,7 @@
 {
   "files": [
     {
+      "id": 10,
       "titleFa": "مسکونی",
       "titleEn": "home",
       "area": "160",
@@ -19,6 +20,7 @@
       }
     },
     {
+      "id": 20,
       "titleFa": "ویلا",
       "titleEn": "vila",
       "area": "260",
@@ -37,6 +39,7 @@
       }
     },
     {
+      "id": 30,
       "titleFa": "مسکونی",
       "titleEn": "home",
       "area": "100",
@@ -55,6 +58,7 @@
       }
     },
     {
+      "id": 40,
       "titleFa": "تجاری",
       "titleEn": "business",
       "area": "85",
@@ -73,6 +77,7 @@
       }
     },
     {
+      "id": 50,
       "titleFa": "تجاری",
       "titleEn": "business",
       "area": "80",
@@ -91,6 +96,7 @@
       }
     },
     {
+      "id": 60,
       "titleFa": "مسکونی",
       "titleEn": "home",
       "area": "60",
@@ -109,6 +115,7 @@
       }
     },
     {
+      "id": 70,
       "titleFa": "ویلا",
       "titleEn": "vila",
       "area": "260",
