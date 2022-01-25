@@ -1,7 +1,7 @@
 {
   "data": [
     {
-      "titleFa": "خانه",
+      "titleFa": "مسکونی",
       "titleEn": "home",
       "area": "160",
       "price": "1200000000",
@@ -10,6 +10,7 @@
       "addressFa": "saadat abad",
       "addressEn": "سعادت آباد",
       "options": {
+        "Floor" : "5",
         "bathroom": "2",
         "bedroom": "3",
         "parking": true,
@@ -18,6 +19,73 @@
     },
     {
       "titleFa": "ویلا",
+      "titleEn": "vila",
+      "area": "260",
+      "price": "40000000000",
+      "region": "2",
+      "type": "20",
+      "addressFa": "darabad",
+      "addressEn": "دارآباد",
+      "options": {
+        "Floor" : null,
+        "bathroom": "5",
+        "bedroom": "5",
+        "parking": true,
+        "lifter": true
+      }
+    },
+    {
+      "titleFa":"مسکونی",
+      "titleEn": "home",
+      "area": "100",
+      "price": "10000000000",
+      "region": "2",
+      "type": "20",
+      "addressFa": "Zafaranie , first street",
+      "addressEn": "زعفرانیه - خیابان یکم",
+      "options": {
+        "Floor" : "3",
+        "bathroom": "2",
+        "bedroom": "2",
+        "parking": true,
+        "lifter": false
+      }
+    },
+    {
+      "titleFa": "تجاری",
+      "titleEn": "business",
+      "area": "180",
+      "price": "80000000000",
+      "region": "2",
+      "type": "20",
+      "addressFa": "darabad",
+      "addressEn": "دارآباد",
+      "options": {
+        "Floor" : "G",
+        "bathroom": "2",
+        "bedroom": "2",
+        "parking": true,
+        "lifter": true
+      }
+    },
+    {
+      "titleFa": "واحد تجاری",
+      "titleEn": "business",
+      "area": "80",
+      "price": "10000000000",
+      "region": "2",
+      "type": "20",
+      "addressFa": "darabad",
+      "addressEn": "دارآباد",
+      "options": {
+        "bathroom": "5",
+        "bedroom": "5",
+        "parking": true,
+        "lifter": true
+      }
+    },
+    {
+      "titleFa": "واحد تجاری",
       "titleEn": "vila",
       "area": "260",
       "price": "40000000000",
