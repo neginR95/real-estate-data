@@ -1,5 +1,5 @@
 {
-  "data": [
+  "files": [
     {
       "titleFa": "مسکونی",
       "titleEn": "home",
@@ -11,7 +11,7 @@
       "addressEn": "Ehsan str. , Koohestan blv. , Sa'adatabad",
       "image": "cities-1.jpg.webp",
       "options": {
-        "Floor" : "5",
+        "Floor": "5",
         "bathroom": "2",
         "bedroom": "3",
         "parking": true,
@@ -29,7 +29,7 @@
       "addressEn": "sixth str. , Darabad",
       "image": "cities-1.jpg.webp",
       "options": {
-        "Floor" : null,
+        "Floor": null,
         "bathroom": "5",
         "bedroom": "5",
         "parking": true,
@@ -37,7 +37,7 @@
       }
     },
     {
-      "titleFa":"مسکونی",
+      "titleFa": "مسکونی",
       "titleEn": "home",
       "area": "100",
       "price": "10000000000",
@@ -47,7 +47,7 @@
       "addressEn": "first street , Zafaranie",
       "image": "cities-1.jpg.webp",
       "options": {
-        "Floor" : "3",
+        "Floor": "3",
         "bathroom": "2",
         "bedroom": "2",
         "parking": true,
@@ -65,7 +65,7 @@
       "addressEn": "Golestan st.,Iranzamin blv.,Shahrak Gharb ",
       "image": "cities-1.jpg.webp",
       "options": {
-        "Floor" : "10",
+        "Floor": "10",
         "bathroom": "1",
         "bedroom": "2",
         "parking": true,
@@ -83,7 +83,7 @@
       "addressEn": "Negin str. , Farahzadi blv. , Sa'adatabad",
       "image": "cities-1.jpg.webp",
       "options": {
-        "Floor" : "1",
+        "Floor": "1",
         "bathroom": "1",
         "bedroom": "1",
         "parking": false,
@@ -101,7 +101,7 @@
       "addressEn": "first str, Chehel sotoon str, Yousefabad",
       "image": "cities-1.jpg.webp",
       "options": {
-        "Floor" : "3",
+        "Floor": "3",
         "bathroom": "1",
         "bedroom": "1",
         "parking": false,
@@ -119,12 +119,14 @@
       "addressEn": "second srt. , darabad",
       "image": "cities-1.jpg.webp",
       "options": {
-        "Floor" : null,
+        "Floor": null,
         "bathroom": "5",
         "bedroom": "5",
         "parking": true,
         "lifter": true
       }
     }
+  ],
+  "users": [
   ]
 }
