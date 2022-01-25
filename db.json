@@ -1,33 +1,52 @@
 {
-
-    "posts": [
-        {
-            "id": 1,
-            "title": "Post 1"
-        },
-        {
-            "id": 2,
-            "title": "Post 2"
-        },
-        {
-            "id": 3,
-            "title": "Post 3"
-        }
-    ],
-    "comments": [
-        {
-            "id": 1,
-            "body": "some comment",
-            "postId": 1
-        },
-        {
-            "id": 2,
-            "body": "some comment",
-            "postId": 1
-        }
-    ],
-    "profile": {
-        "name": "typicode"
+  "data": [
+    {
+      "titleFa": "خانه",
+      "titleEn": "home",
+      "area": "160",
+      "price": "1200000000",
+      "region": "2",
+      "type": "10",
+      "addressFa": "saadat abad",
+      "addressEn": "سعادت آباد",
+      "options": {
+        "bathroom": "2",
+        "bedroom": "3",
+        "parking": true,
+        "lifter": true
+      }
+    },
+    {
+      "titleFa": "ویلا",
+      "titleEn": "vila",
+      "area": "260",
+      "price": "40000000000",
+      "region": "2",
+      "type": "20",
+      "addressFa": "darabad",
+      "addressEn": "دارآباد",
+      "options": {
+        "bathroom": "5",
+        "bedroom": "5",
+        "parking": true,
+        "lifter": true
+      }
+    },
+    {
+      "titleFa": "واحد تجاری",
+      "titleEn": "vila",
+      "area": "260",
+      "price": "40000000000",
+      "region": "2",
+      "type": "20",
+      "addressFa": "darabad",
+      "addressEn": "دارآباد",
+      "options": {
+        "bathroom": "5",
+        "bedroom": "5",
+        "parking": true,
+        "lifter": true
+      }
     }
-
+  ]
 }
