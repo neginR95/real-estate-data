@@ -15,7 +15,7 @@
         "Floor": "5",
         "bathroom": "2",
         "bedroom": "3",
-        "parking": true,
+        "parking": false,
         "lifter": true
       }
     },
@@ -25,7 +25,7 @@
       "titleEn": "vila",
       "area": "260",
       "price": "40000000000",
-      "region": "2",
+      "region": "1",
       "type": "20",
       "addressFa": "دارآباد - خیابان ششم",
       "addressEn": "sixth str. , Darabad",
@@ -101,7 +101,7 @@
       "titleEn": "home",
       "area": "60",
       "price": "1000000000",
-      "region": "2",
+      "region": "3",
       "type": "20",
       "addressFa": "یوسف آباد - خیابان چهل ستون - خیابان یکم",
       "addressEn": "first str, Chehel sotoon str, Yousefabad",
@@ -120,15 +120,15 @@
       "titleEn": "vila",
       "area": "260",
       "price": "40000000000",
-      "region": "2",
+      "region": "1",
       "type": "30",
       "addressFa": "دارآباد - خیابان دوم",
       "addressEn": "second srt. , darabad",
       "image": "cities-1.jpg.webp",
       "options": {
         "Floor": null,
-        "bathroom": "5",
-        "bedroom": "5",
+        "bathroom": "2",
+        "bedroom": "3",
         "parking": true,
         "lifter": true
       }
