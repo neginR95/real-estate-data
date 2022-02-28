@@ -224,23 +224,6 @@
       "lifter": 1
     },
     {
-      "id": 133,
-      "titleFa": "ویلا",
-      "titleEn": "vila",
-      "area": "150",
-      "price": "25000000000",
-      "region": "1",
-      "type": "10",
-      "addressFa": "دارآباد - خیابان بهشت",
-      "addressEn": "behesht srt. , darabad",
-      "image": "home-7.jpg",
-      "floor": null,
-      "bathroom": "2",
-      "bedroom": "2",
-      "parking": 1,
-      "lifter": 0
-    },
-    {
       "id": 135,
       "titleFa": "ویلا",
       "titleEn": "vila",
@@ -271,6 +254,23 @@
       "floor": null,
       "bathroom": "2",
       "bedroom": "1",
+      "parking": 1,
+      "lifter": 0
+    },
+    {
+      "id": 133,
+      "titleFa": "ویلا",
+      "titleEn": "vila",
+      "area": "150",
+      "price": "25000000000",
+      "region": "1",
+      "type": "10",
+      "addressFa": "دارآباد - خیابان بهشت",
+      "addressEn": "behesht srt. , darabad",
+      "image": "home-7.jpg",
+      "floor": null,
+      "bathroom": "2",
+      "bedroom": "2",
       "parking": 1,
       "lifter": 0
     }
