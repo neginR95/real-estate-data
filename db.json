@@ -272,5 +272,6 @@
       "parking": 1,
       "lifter": 0
     }
-  ]
+  ],
+  "users" : []
 }
