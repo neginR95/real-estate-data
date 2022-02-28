@@ -11,13 +11,11 @@
       "addressFa": "سعادت آباد - بلوار کوهستان - خیابان احسان",
       "addressEn": "Ehsan str. , Koohestan blv. , Sa'adatabad",
       "image": "home-1.jpg",
-      "options": {
-        "Floor": "5",
-        "bathroom": "2",
-        "bedroom": "3",
-        "parking": 0,
-        "lifter": 1
-      }
+      "floor": "5",
+      "bathroom": "2",
+      "bedroom": "3",
+      "parking": 0,
+      "lifter": 1
     },
     {
       "id": 121,
